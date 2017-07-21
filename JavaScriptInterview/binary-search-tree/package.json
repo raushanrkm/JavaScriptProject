@@ -1,0 +1,15 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binary-search-tree.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
